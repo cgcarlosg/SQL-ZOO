@@ -19,7 +19,7 @@ This project solves the SQL zoo tutorial on The Odin Project . It helps to go de
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page]().
+Feel free to check the [issues page](https://github.com/cgcarlosg/SQL-ZOO/issues).
 
 ## Show your support
 
