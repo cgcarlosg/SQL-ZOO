@@ -296,4 +296,3 @@ SELECT name, continent, population FROM world WHERE continent IN (SELECT contine
 -- 10. Some countries have populations more than three times that of any of their neighbours (in the same continent). Give the countries and continents.
 
 SELECT name,continent FROM world A WHERE population > ALL(SELECT 3 * population FROM world B WHERE A.continent = B.continent AND A.name <> B.name)
-
