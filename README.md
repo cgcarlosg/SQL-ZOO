@@ -5,7 +5,7 @@ This project solves the SQL zoo tutorial on The Odin Project . It helps to go de
 
 ## Built With
 
-- Visual Studio Code
+- SQL
 
 ## Author
 
